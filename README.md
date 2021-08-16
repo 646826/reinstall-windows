@@ -1,2 +1,1 @@
-# Reinstall Windows
-Preparing windows after installation
+# Preparing windows after installation
